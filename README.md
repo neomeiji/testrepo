@@ -10,7 +10,7 @@
 I can also do a multi-line comment like this
 -->
 
-<!-- [comment]: # (Another way to add a secret comment, that will be completely omitted by almost ALL Markdown renderers, is to use an empty Link Definition. As it is unused, as long as it is wrapped in parantheses, it won't be rendered!) -->
+<!-- [comment]: # (Another way to add a secret comment, that will be completely omitted by almost ALL Markdown renderers, is to use an empty Link Definition. As it is unused, as long as it is wrapped in parentheses, it won't be rendered!) -->
 
 <!-- A shortcut to generate HTML comment tags = "CTRL + /" -->
 
