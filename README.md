@@ -2,10 +2,9 @@
 
 <!-- Well done, you found me! Who told you to click on RAW??!? Are you GORDON RAMSAY??? Password = 5!CKW1Z4RD! -->
 
-<!-- The following syntax solution didn't work for adding comments within a Markdown File > "(e.g., [comment]: # )", so I used a HTML Comment Tag instead --> 
+<!-- There are 2 methods for writing hidden comments in MD (Markdown) Files i.e., using the following syntax = "(e.g., [comment]: # )" OR using a HTML Comment Tag instead --> 
 
-<!-- Turns out this works as I cannot see this comment within the Rendered Markdown File! 
-NOTE BENNE!!! > It is important to note that some Markdown Engines will leave in HTML when rendering the Markdown File, so be careful what you put inside of comments! -->
+<!-- NOTE BENNE!!! > It is important to note that some Markdown Engines will leave in HTML when rendering the Markdown File, so be careful what you put inside of comments! -->
 
 <!--
 I can also do a multi-line comment like this
