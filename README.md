@@ -1,15 +1,16 @@
 # testrepo
 
-<!--The following syntax solution didn't work for adding comments within a Markdown File > "(e.g., [comment]: # )", so I used a HTML Comment Tag instead--> 
+<!-- Well done, you found me! Who told you to click on RAW??!? Are you GORDON RAMSAY??? Password = 5!CKW1Z4RD! -->
+
+<!-- The following syntax solution didn't work for adding comments within a Markdown File > "(e.g., [comment]: # )", so I used a HTML Comment Tag instead --> 
 
 <!-- Turns out this works as I cannot see this comment within the Rendered Markdown File! 
 NOTE BENNE!!! > It is important to note that some Markdown Engines will leave in HTML when rendering the Markdown File, so be careful what you put inside of comments! -->
 
 <!--
-I can also do a multi-line comment like this > Well done, you found me! Who told you to click INSPECT SOURCE??!? Password = 5!CKW1Z4RD!
+I can also do a multi-line comment like this
 -->
 
-<!--
 <!-- [comment]: # (Another way to add a secret comment, that will be completely omitted by almost ALL Markdown renderers, is to use an empty Link Definition. As it is unused, as long as it is wrapped in parantheses, it won't be rendered! -->
 
 <!-- A shortcut to generate HTML comment tags = "CTRL + /" -->
