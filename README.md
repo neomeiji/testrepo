@@ -14,6 +14,18 @@ I can also do a multi-line comment like this
 
 <!-- A shortcut to generate HTML comment tags = "CTRL + /" -->
 
+<!-- I really like all of these font's:
+- Cairo
+- DM Sans
+- Kanit
+- Oswald
+- Outfit
+- Prompt
+- Quicksand
+- Raleway
+So maybe use these for future projects...
+-->
+
 Welcome travellers... 
 
 This markdown file you are currently reading, within this humble GitHub Repository, is one part of my journey to conquer the beast of Git and GitHub. 
@@ -24,22 +36,15 @@ This Repository will serve to expand upon my knowledge; enabling me to publish m
 
 # Fonts to use for README
 
-I'm deciding between the following fonts to use for my GitHub profile + my personal / portfolio website.
+I've decided to use the "Cairo" font for my GitHub profile + my personal / portfolio website (for now)
 
-These fonts are all from Google Fonts and this Typing SVG Generator = https://github.com/DenverCoder1/readme-typing-svg
+The font is from Google Fonts and the following Typing SVG Generator was used for the example SVG animations = https://github.com/DenverCoder1/readme-typing-svg
 
-I may also experiment with creating my own custom typing animation with a blinking cursor in CSS (without steps). 
+I may also experiment with creating my own custom typing animation with a blinking cursor in CSS (without steps as it looks cleaner). 
 
-Take a a look at Linux commands come Monday so I can make a cool typing animation e.g., pwd > unknown 
+Need to look at Linux commands again so that the SVG typing animation makes sense e.g., "$ pwd" > "c/Users/TheGrandWizard" > "ls-la" > etc etc 
 
-- Cairo✅
-- DM Sans
-- Kanit
-- Oswald
-- Outfit✅
-- Prompt✅
-- Quicksand✅
-- Raleway✅
+- I decided to use Cairo as the font for my GitHub README✅
 
 Make a custom ASCII Calling Card / Logo to use across my own personal portfolio website + GitHub + other places
 
@@ -51,33 +56,10 @@ Example code:
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+unique+projects.;Coding+is+art.;Let's+collaborate!" alt="Typing SVG" />
 </p>
 
-Draft of typing animation svg (double check the linux commaanads make sense)
-
-A - Raleway Font:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=50&duration=2000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=%24+pwd;c%2FUsers%2FTheGrandWizard;ls+-la;-rwxrwxrwx+%7C+1+%7C+admin+%7C+1K+%7C+Jul+28+%7C+9%3A00+%7C+wizard.txt;cat+wizard.txt;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
-
-B - Cairo Font:
+Draft of SVG typing animation (double check the linux commands make sense)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=50&duration=2000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=%24+pwd;c%2FUsers%2FTheGrandWizard;ls+-la;-rwxrwxrwx+%7C+1+%7C+admin+%7C+1K+%7C+Jul+28+%7C+9%3A00+%7C+wizard.txt;cat+wizard.txt;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
 
-1. Cairo: 
+Cairo: 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&duration=3000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=200&lines=Welcome+young+mage...;You+have+now+entered+the+domain+of+neomeiji;Always+remember!;A+wizard+is+never+late%2C+nor+is+he+early%2C+he+arrives+precisely+when+he+means+to)](https://git.io/typing-svg)
-
-2. Outfit:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=3000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=200&lines=Welcome+young+mage...;You+have+now+entered+the+domain+of+neomeiji;Always+remember!;A+wizard+is+never+late%2C+nor+is+he+early%2C+he+arrives+precisely+when+he+means+to)](https://git.io/typing-svg)
-
-3. Prompt:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=30&duration=3000&pause=1000&color=51F7B5&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Welcome+young+mage...;You+have+now+entered+the+domain+of+neomeiji;Always+remember!;A+wizard+is+never+late%2C+nor+is+he+early%2C+he+arrives+precisely+when+he+means+to)](https://git.io/typing-svg)
-
-
-4. Quicksand:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&duration=3000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=200&lines=Welcome+young+mage...;You+have+now+entered+the+domain+of+neomeiji;Always+remember!;A+wizard+is+never+late%2C+nor+is+he+early%2C+he+arrives+precisely+when+he+means+to)](https://git.io/typing-svg)
-
-5. Raleway:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=3000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+young+mage...;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=50&duration=2000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=%24+pwd;%2Fhome%2FTheGrandWizard;ls+-la;-rwxrwxrwx+%7C+1+%7C+admin+%7C+1K+%7C+Jul+28+%7C+9%3A00+%7C+wizard.txt;cat+wizard.txt;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
