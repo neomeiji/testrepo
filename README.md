@@ -1,4 +1,4 @@
-# testrepo
+# testrepo - ⚗️🧙🏽‍♂️📜✨
 
 <!-- Well done, you found me! Who told you to click on RAW??!? Are you GORDON RAMSAY??? Password = 5!CKW1Z4RD! -->
 
@@ -34,19 +34,21 @@ This Repository will serve to expand upon my knowledge; enabling me to publish m
 
 #buildinginpublic #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Dark ASCII PNG (205 characters).png">
+  <source media="(prefers-color-scheme: light)" srcset="Light ASCII PNG (205 characters).png">
+  <img alt="ASCII Art" src="Light ASCII PNG (205 characters).png">
+</picture>
+
 # Fonts to use for README
 
-I've decided to use the "Cairo" font for my GitHub profile + my personal / portfolio website (for now)
+I've decided to use the "Cairo" font for my GitHub profile + my personal / portfolio website (for now) ✅
 
 The font is from Google Fonts and the following Typing SVG Generator was used for the example SVG animations = https://github.com/DenverCoder1/readme-typing-svg
 
 I may also experiment with creating my own custom typing animation with a blinking cursor in CSS (without steps as it looks cleaner). 
 
-Need to look at Linux commands again so that the SVG typing animation makes sense e.g., "$ pwd" > "c/Users/TheGrandWizard" > "ls-la" > etc etc 
-
-- I decided to use Cairo as the font for my GitHub README✅
-
-Make a custom ASCII Calling Card / Logo to use across my own personal portfolio website + GitHub + other places
+Also look into making a custom ASCII Calling Card / Logo to use across my own personal portfolio website + GitHub + other places
 
 # Typing SVG Generator Preview
 
@@ -56,9 +58,7 @@ Example code:
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+unique+projects.;Coding+is+art.;Let's+collaborate!" alt="Typing SVG" />
 </p>
 
-Draft of SVG typing animation (double check the linux commands make sense)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=50&duration=2000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=%24+pwd;c%2FUsers%2FTheGrandWizard;ls+-la;-rwxrwxrwx+%7C+1+%7C+admin+%7C+1K+%7C+Jul+28+%7C+9%3A00+%7C+wizard.txt;cat+wizard.txt;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
+I double checked the Linux Commands and they make perfect sense as this is exactly how you would navigate a Linux File Structure
 
 Cairo: 
 
