@@ -34,15 +34,13 @@ This Repository will serve to expand upon my knowledge; enabling me to publish m
 
 #buildinginpublic #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage
 
-<!-- The below HTML code in the Markdown File, is for a responsive/dynamic GitHub Profile Picture that changes when the user chooses either light mode or dark mode -->
+<!-- The below HTML code results in a responsive/dynamic way for the Wizard images to be changed depending on the user's currently selected theme (light mode or dark mode) -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="Light Wizard Compressed.jpeg">
-  <source media="(prefers-color-scheme: dark)" srcset="Dark Wizard Compressed.jpeg">
-  <img alt="Profile picture" src="Normal Wizard.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_wizard_flipped.png">
+  <source media="(prefers-color-scheme: light)" srcset="light_wizard_flipped.png">
+  <img src="normal_wizard_flipped.png" alt="Wizard profile picture">
 </picture>
-
-
 
 # Fonts to use for README
 
