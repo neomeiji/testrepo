@@ -34,11 +34,15 @@ This Repository will serve to expand upon my knowledge; enabling me to publish m
 
 #buildinginpublic #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage
 
+<!-- The below HTML code in the Markdown File, is for a responsive/dynamic GitHub Profile Picture that changes when the user chooses either light mode or dark mode -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Dark ASCII PNG (205 characters).png">
-  <source media="(prefers-color-scheme: light)" srcset="Light ASCII PNG (205 characters).png">
-  <img alt="ASCII Art" src="Light ASCII PNG (205 characters).png">
+  <source media="(prefers-color-scheme: light)" srcset="Light Wizard Compressed.jpeg">
+  <source media="(prefers-color-scheme: dark)" srcset="Dark Wizard Compressed.jpeg">
+  <img alt="Profile picture" src="Normal Wizard.jpg">
 </picture>
+
+
 
 # Fonts to use for README
 
