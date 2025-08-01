@@ -34,13 +34,20 @@ This Repository will serve to expand upon my knowledge; enabling me to publish m
 
 #buildinginpublic #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage
 
-<!-- The below HTML code results in a responsive/dynamic way for the Wizard images to be changed depending on the user's currently selected theme (light mode or dark mode) -->
+<!-- The below HTML code results in a responsive/dynamic way for the Wizard images to be changed depending on the user's currently selected theme (light mode or dark mode) > Good news, it works!!! 
+
+Light Mode = Light Mode Wizard
+Dark Mode = Dark Mode Wizard
+Fallback = Normal (detailed) Wizard
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_wizard_flipped.png">
   <source media="(prefers-color-scheme: light)" srcset="light_wizard_flipped.png">
-  <img src="normal_wizard_flipped.png" alt="Wizard profile picture">
+  <img src="normal_wizard_flipped.png" img alt="Shows a detailed picture of a Wizard wearing a hat, a baggy cloak and holding a long staff emitting a glowing light in a circular shape">
 </picture>
+
+
 
 # Fonts to use for README
 
