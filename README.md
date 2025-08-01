@@ -1,4 +1,4 @@
-# testrepo
+# testrepo - ⚗️🧙🏽‍♂️📜✨
 
 <!-- Well done, you found me! Who told you to click on RAW??!? Are you GORDON RAMSAY??? Password = 5!CKW1Z4RD! -->
 
@@ -14,6 +14,18 @@ I can also do a multi-line comment like this
 
 <!-- A shortcut to generate HTML comment tags = "CTRL + /" -->
 
+<!-- I really like all of these font's:
+- Cairo
+- DM Sans
+- Kanit
+- Oswald
+- Outfit
+- Prompt
+- Quicksand
+- Raleway
+So maybe use these for future projects...
+-->
+
 Welcome travellers... 
 
 This markdown file you are currently reading, within this humble GitHub Repository, is one part of my journey to conquer the beast of Git and GitHub. 
@@ -21,3 +33,42 @@ This markdown file you are currently reading, within this humble GitHub Reposito
 This Repository will serve to expand upon my knowledge; enabling me to publish my projects outside of my domain! 
 
 #buildinginpublic #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage
+
+<!-- The below HTML code results in a responsive/dynamic way for the Wizard images to be changed depending on the user's currently selected theme (light mode or dark mode) > Good news, it works!!! 
+
+Light Mode = Light Mode Wizard
+Dark Mode = Dark Mode Wizard
+Fallback = Normal (detailed) Wizard
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_wizard_flipped.png">
+  <source media="(prefers-color-scheme: light)" srcset="light_wizard_flipped.png">
+  <img src="normal_wizard_flipped.png" img alt="Shows a detailed picture of a Wizard wearing a hat, a baggy cloak and holding a long staff emitting a glowing light in a circular shape">
+</picture>
+
+
+
+# Fonts to use for README
+
+I've decided to use the "Cairo" font for my GitHub profile + my personal / portfolio website (for now) ✅
+
+The font is from Google Fonts and the following Typing SVG Generator was used for the example SVG animations = https://github.com/DenverCoder1/readme-typing-svg
+
+I may also experiment with creating my own custom typing animation with a blinking cursor in CSS (without steps as it looks cleaner). 
+
+Also look into making a custom ASCII Calling Card / Logo to use across my own personal portfolio website + GitHub + other places
+
+# Typing SVG Generator Preview
+
+Example code:
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+unique+projects.;Coding+is+art.;Let's+collaborate!" alt="Typing SVG" />
+</p>
+
+I double checked the Linux Commands and they make perfect sense as this is exactly how you would navigate a Linux File Structure
+
+Cairo: 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=50&duration=2000&pause=1000&color=51F7B5&background=FFFFFF00&center=true&vCenter=true&width=1200&height=200&lines=%24+pwd;%2Fhome%2FTheGrandWizard;ls+-la;-rwxrwxrwx+%7C+1+%7C+admin+%7C+1K+%7C+Jul+28+%7C+9%3A00+%7C+wizard.txt;cat+wizard.txt;You+have+now+entered+the+domain+of+neomeiji)](https://git.io/typing-svg)
